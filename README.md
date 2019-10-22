@@ -11,9 +11,9 @@ the reason I use java and spring as a framework, because java is very powerful a
 the tools I used in building this project were the Netbeans IDE
 the reason I use Netbeans is because the features of Netbeans are very supportive and complete
 
-
 how to run the program open in 
 <b>Netbeans IDE, Intelije IDE or Eclipse tools </b> , make sure you have installed maven and JDK 8 
 or above on your computer
 
-after that open the postman and run the results will be as drawn <b>postman.png</b> above
+
+after that open the postman and type this url <b>http://localhost:8080/api/airmiliary</b> and select type <b>GET</b> then click SENDand run the results will be as drawn <b>postman.png</b> above
